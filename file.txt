@@ -1,0 +1,2 @@
+Whoa... Brand new file?
+Time to start building out the Homelab with Terraform and Ansible goodness.
